@@ -36,7 +36,7 @@
   <outputs defaultOutput="fallback">
     <output id="fallback">
       <description><![CDATA[
-                Fallback when the browser doesn't support Javascript
+                Fallback when the browser doesn't support Javascrip
             ]]></description>
       <condition><![CDATA[
                 Not(Browser.Support("javascript"))
